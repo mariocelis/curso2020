@@ -1,0 +1,2222 @@
+﻿*** Rehub Changelog ***
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+
+7.8.7 - 17 december 2018
+
+Added: Visual editor to category description fields and FR localization 
+Fix: reviewbox non visibility on posts
+
+7.8.6 - 12 december 2018
+
+Added: New product layouts for Directory and Review sites http://rewise.wpsoul.net/product/htc-10/ and http://rewise.wpsoul.net/product/directory_layout/
+Added: Option to set Backroung for Review block and Full width product layout (see Review panel for product)
+Added: Option to enable button for Compact grid module for Woocommerce (Theme option - Loop Customization)
+Fixes: couple of small fixes 
+
+7.8.5 - some fixes
+
+7.8.4 - 5 december 2018
+
+Added: Sorting by expiration date in page builder modules
+Added: Better UI for woocommerce columned grid
+Added: Review stars in loop supports also Editor's score
+Added: Compatibility with Wordpress 5.0, update for Wp Bakery plugin and Revolution slider
+
+7.8.3 - 29 november 2018
+
+Added: Video thumbnails for Woocommerce http://rehubdocs.wpsoul.com/docs/rehub-theme/shop-options-woo-edd/how-to-add-video-thumbnails-to-product/
+
+7.8.2 - 18 november 2018
+
+Added: Floating panel for Big Offer post layout and some small fixes
+
+7.8.1 - 17 november 2018
+
+Fixes + added new function to RH FRONTEND PRO plugin to use external urls for featured image http://rehubdocs.wpsoul.com/docs/rehub-plugins-add-ons/rh-frontend-publishing-pro/how-to-add-a-thumbnail-with-an-external-image-url/
+
+7.8 - 16 november 2018
+
+Added: Better Gutenberg Support for Upcoming 5.0 Wordpress
+Added: Custom code area for Login Popup (theme option – user option)
+Added: Better Category widget for Store pages
+Added: Improved Mobile floating panel for products. Now it shows Button in Bottom and Navigation links in Top
+Added: New Advanced Product Filter plugin http://rehubdocs.wpsoul.com/docs/rehub-theme/shop-options-woo-edd/better-product-filtering/
+Fix: Title limit can be disabled for grid http://rehubdocs.wpsoul.com/docs/rehub-theme/snippets/#How_to_disable_Title_limit_in_DealCoupon_Grid_module and many other fixes and improvements
+
+7.7.3 - 2 november 2018
+
+Added: Updated Taxonomy and Category shortcode http://rehubdocs.wpsoul.com/docs/rehub-theme/shop-options-woo-edd/how-to-add-cool-category-blocks/ http://rehubdocs.wpsoul.com/docs/rehub-theme/affiliate-settings/how-to-create-archive-of-all-brands/
+Added: Review Criterias for Comparison Charts
+Update: Woocommerce 3.5.1 compatibility
+
+7.7.2 - 25 october 2018
+
+Added: Cashback notices for Deals http://rehubdocs.wpsoul.com/docs/rehub-theme/cashback-functions/configuring-cashback-notices-and-post-layouts/
+Added: New variant for Deal grid (Compact style), which is better for coupons
+Update: Woocommerce 3.5, WP Bakery
+
+7.7 - 11 october 2018
+
+Added: Option to add labels for icons in Comparison/Shop header layout 
+Added: New Product layout for Directory woocommerce http://rewise.wpsoul.net/product/directory_layout/
+Added: Mobile floating panel for Products
+Fix: Price alert in popup
+
+7.6.9.9 - 3 october 2018
+
+Fix of bug on author page
+
+7.6.9.8 - 2 october 2018
+
+Added: New updated design for Buddypress Profiles (Mails and Activity). Profile sidebar area is enabled now by default
+Added: Support for new Stock managment system of Content Egg
+Update: Fontawesome icons to 5.3.1 and many other small improvements
+
+7.6.9.6 - 1 september 2018
+
+Added: updated design for Deal Store pages with new fields for url, short description, custom heading. Maybe you will need to check your pages and change widgets
+Update: design for system buttons
+Fixes: cart issues on mobiles
+
+7.6.9.5 - 22 august 2018
+
+Added: New design style for buttons (rounded buttons). You can enable in theme option - appearance
+Added: New News List style for News Sites. You can enable it in theme option - general - category layout in Rehub theme or in WP Bakery page builder in News/Directory List Module, in Type option. Previously module has name List with Left Thumbs
+Added: New module for Coupons - Deal/Coupon List
+
+7.6.9.3 - 4 aug 2018
+
+Added: New Multicurrency option http://rehubdocs.wpsoul.com/docs/rehub-theme/affiliate-settings/multi-currency-and-multi-locales/
+Added: compatibility with latest wordpress
+
+7.6.9.1 - just some fixes
+
+7.6.9 - 23 July 2018
+
+Added: New Vertical Mega menu style http://rehubdocs.wpsoul.com/docs/rehub-theme/basic-settings/mega-menus/#Vertical_Mega_menu
+
+7.6.8 - fixes
+
+7.6.7 - 18 July 2018
+
+Added: Helpful or not buttons in woocommerce reviews (use theme option - shop settings to enable)
+Added: Floating CTA panel for Recash compact Post layout
+Added: New search style with category dropdown (works if you have woocommerce and disabled post type option for search in theme option - header and menu option - search option)
+Added: Out of stock products are not visible in custom modules if you enable this option in woocommerce settings
+Added: WC Vendor PRO improvements for new map and contact widgets
+Update: FontAwesome icons 5.1, Visual Composer and many small UI improvement
+
+7.6.6 - 2 July 2018
+
+Added: New option to add logo and background to top of mobile sliding panel
+Fix: Menu trigger fix for chrome
+Added: Better support for WOOF plugin
+
+7.6.4 - 27 june 2018
+
+Fixes
+
+7.6.3 - 20 june 2018
+
+Fixes + option to support wishlist with cache plugins http://rehubdocs.wpsoul.com/docs/rehub-theme/shop-options-woo-edd/wishlist/
+
+7.6 - 10 june 2018
+
+Added: New css grid styles for List module. Please, read if you have customization of List module https://sizamtheme.support-hub.io/articles/rehub-76-major-update
+Added: Possibility to add social links to header http://rehubdocs.wpsoul.com/docs/rehub-theme/basic-settings/how-to-add-social-icons-to-header/
+Added: Mycred Hook for Wishlist (author of post can get points when somebody adds his post to wishlist)
+Added: Option to use Local google fonts http://rehubdocs.wpsoul.com/docs/rehub-theme/how-to/local-google-fonts-for-gdpr/
+Added: New conditional shortcodes for membership sites https://wpsoul.com/creating-social-business-advanced-membership-site-buddypress-and-s2member/#shortcodes-of-theme-for-buddypress 
+Added: New Step By Step Tutorial for User Driven Community sites on Rehub
+Added: RH Cloak plugin now can work with Content Egg and can change affiliate links globaly (including auto changing user links and content links)
+
+
+7.5.5 - 27 may 2018
+
+Added: Privacy Policy link for Register Popup
+Added: custom login url support for wishlist
+Added: Customizer now supports all header options, footer options and Color appearance
+Added: compatibility for woocommerce latest, WC marketplace, Buddypress, Dokan
+
+7.5.4 - 19 may 2018
+
+Added: GDPR ready and BP 3.0 compatibility
+
+7.5.3 - 15 may 2018
+
+Added: Fix for WC Vendor 2.0
+
+7.5.2 - 12 may 2018
+
+Added: support for WCMarketplace verify and vacation addon
+Added: option for products to disable inner links for affiliate products
+
+7.5.1 - 3 may 2018
+
+Added: support for WC Marketplace membership Addon + some fixes
+
+7.5 - 24 april 2018
+
+Added: Top line custom area (Theme options - header - top line)
+Added: New demo import logic (will work on sites with existed content and users)
+Added: Background option for fourth footer widget area (theme option - footer)
+Added: Option to show recent viewed products in all woocommerce modules of page builder
+Update: Better compatibility with php 7.2
+Update: MDTF plugin, WPSM Specification plugin
+
+7.4.2 - 9 apr 2018
+
+Couple of fixes and improvements
+
+7.4.1 - 2 april 2018
+
+Added: New Product layout for price comparison list based on sku http://rehubdocs.wpsoul.com/docs/rehub-theme/affiliate-settings/bulk-import-of-offers/
+Update: RH woo tools hide tool now works with unlimited products on weak servers also
+Update: Fontawesome icons 5 version https://wpsoul.com/rehub-7-4/
+
+7.4 - 28 march 2018
+
+Added: New footer area
+Added: New wishlist shortcodes and wishlist for posts
+Update: important notice https://wpsoul.com/rehub-7-4/
+
+7.3 - 20 march 2018
+
+Added: Custom badges for woocommerce
+Added: support for WC Marketplace 3.0 and updated docs
+Added: Option for single view widget to show only in reviews
+Updated: Visual composer and Revolution Slider
+
+7.2.1 - 1 mar 2018
+
+some fixes
+
+7.2 - 23 feb 2018
+
+Added: Support for Customizer for basic theme settings
+Added: support for latest woocommerce
+Added: Delete expired offers for top offer widget
+
+7.1.9.4 - 14 feb 2018
+
+Some fixes + YITH Question and answer support
+
+7.1.9.3 - 12 feb 2018
+
+Some fixes
+
+7.1.9 - 28 jan 2018
+
+Added: New Site width Control (compact, Regular and Extended)
+Added: New 5 column layout for shop (use only with Extended width)
+Added: New Taxonomy directory shortcode parameters http://rehubdocs.wpsoul.com/docs/rehub-theme/affiliate-settings/how-to-create-archive-of-all-brands/
+Added: New Compact grid Product Layout
+Added: Updated Price Comparison List Product Layout http://rewise.wpsoul.net/product/canon-750d/
+Added: Countdown for Compact and Big Offer Post layout
+Added: Option to disable price meta area in grid (useful for coupons)
+Added: Better control of Shop/Comparison Header layout (You should resave your settings in theme option - header option)
+Added: Better php 7.2 and AMP compatibility 
+Added: Cross Links Block variants http://rehubdocs.wpsoul.com/docs/rehub-theme/best-conversion-profit-helpers/advanced-cross-linking/
+Added: More Coupon functions and better docs http://rehubdocs.wpsoul.com/docs/rehub-theme/affiliate-settings/coupon-functions/
+Updated: Rewise demo site was updated to show many new functions. Rewise now has Price comparison, Coupon, Review Section and better structure http://rewise.wpsoul.net/ 
+Updated: Review Block template with some new functions http://rewise.wpsoul.net/product/samsung-galaxy-s8/
+
+
+7.1.8 - 16 jan 2018
+
+Added: Second category description field Woocommerce
+Added: Editor's Score Review for Woocommerce
+Added: New Product Layout http://recompare.wpsoul.net/product/swellpro-waterproof-splash-drone-3/
+Added: Option to use OR logic in filter panel
+Added: Custom widgets for Price Drop per period for Content Egg offers http://rehubdocs.wpsoul.com/docs/rehub-theme/affiliate-settings/content-egg-plugin/#Last_updated_Widget_and_Product_grid
+
+
+7.1.7.5 - 15 dec 2017
+
+Added: Option to disable AMP css of theme if you use own plugin
+Added: Code area for coupon modal window
+Added: Affiliate Egg synchronization extension for Posts 
+Fix: Local attributes in dynamic comparison
+Update: Expired time will be in end of day (not at beginning as early)
+
+
+7.1.7.3 - 27 nov 2017
+
+Added: New custom template for Content Egg Google news block
+Added: Google News to Product Layouts for Content Egg
+Added: Lomadee custom templates for Content Egg
+Added: Auto Content Layouts can use Google Image module for thumbnails when Amazon images are not available
+Added: CardBox module of page builder now has 2 design (second is compact)
+Added: New bonus plugin for Link Cloaking for Post offer section
+Added: New bonus plugin to hide products with the same SKU (this is when you use bulk import tool for price comparisons)
+
+Update: Visual Composer (fix for firefox)
+
+7.1.7.2 - 20 nov 2017
+
+some fixes
+
+7.1.7 - 18 november 2017
+
+Added: Sorting option for date of expiration in Post Admin List
+Added: Fix for long group description
+Added: Better UI for Rehub main theme
+Added: Options for better control menu style (padding, font size, font weight, etc). After update, check theme option - header and menu - main menu options
+Added: plugin for fallback images from Brand logo http://rehubdocs.wpsoul.com/docs/rehub-theme/advanced-tips-and-customizations/how-to-use-brand-logo-image-if-no-image-in-post/
+Update: Visual Composer
+
+7.1.6 - 6 november
+
+Added: Recompare demo stack + some fixes
+
+7.1.4 - 2 november 2017
+
+Added: Countdown in product grid
+Added: Amazon name for corner button in Repick
+Added: Table constructor has option to have 2 custom taxonomies and image size of thumbnails
+Added: Option to choose category Ids in filter panel
+Fix: Custom url for mobile logo button
+Update: Function to show Mycred points for Buddypress
+Deprecate: Full width row script as it's useless now. Use Full width option of Page https://www.youtube.com/watch?v=GsoVyf0cphc
+
+
+7.1.3 - 26 october
+
+Added: new big tutorial https://wpsoul.com/make-smart-profitable-deal-affiliate-comparison-site-woocommerce/
+Added: custom area for product loop https://wpsoul.com/make-smart-profitable-deal-affiliate-comparison-site-woocommerce/#general-shop-pages
+Added: Ready unique slider templates for Revolution slider http://rehubdocs.wpsoul.com/docs/rehub-theme/page-builder/slider-and-top-area-ready-templates/
+
+7.1.1 - 19 october
+
+Some fixes
+
+7.1 - 15 october 2017
+
+Added: Versus line shortcodes and pages http://recompare.wpsoul.net/mavic-pro-vs-gopro-karma-with-gopro-black-6/ How to use http://rehubdocs.wpsoul.com/docs/rehub-theme/best-conversion-profit-helpers/versus-pages/
+Added: Woocommerce attribute comparison bars http://recompare.wpsoul.net/versus-page-example-2/ How to use http://rehubdocs.wpsoul.com/docs/rehub-theme/comparisons-tables-charts-lists/woocommerce-attribute-comparison-bars/
+Added: Brand page template chooser and 4 columns layout for shop with sidebar
+Added: [wpsm_bigoffer] shortcode supports also woocommerce
+Added: Offer Hub helpers http://rehubdocs.wpsoul.com/docs/rehub-theme/best-conversion-profit-helpers/offer-hub-pages/
+Added: Price range filters to woocommerce modules
+Added: Connected review shortcode for custom product area http://rehubdocs.wpsoul.com/docs/rehub-theme/shop-options-woo-edd/extended-custom-product-areas/
+Improved: woocommerce modules
+Update: Visual Composer and woocommerce templates
+Fixes: many small fixes and improvements
+
+
+
+7.0.1 - 7.0.7 - 19 sep 2017
+
+Fixes + update for MDTF + update of VC 
+
+7.0 - 24 august 2017
+
+Added: Hover banner module 
+Added: New design for grid and columns woocommerce which has also 2 columns on mobiles for better conversion
+Added: New post view script with option to sort by date, month, year http://rehubdocs.wpsoul.com/docs/rehub-theme/how-to/popular-posts-by-month-day-year/
+Added: New Header layout (centered logo + menu in left, icons in right) + better structure
+Added: New wishlist http://rehubdocs.wpsoul.com/docs/rehub-theme/shop-options-woo-edd/wishlist/
+Added: Code zones for extending Product page http://rehubdocs.wpsoul.com/docs/rehub-theme/shop-options-woo-edd/extended-custom-product-areas/
+Added: News scroller as VC module
+Added: Filter to sort by expiration date in Filter Panel
+Added: improvements in Amazon templates
+Added: 7 New Product Layouts, including templates for Content Egg, Booking, etc
+Added: Support for WC Marketplace http://remarket.wpsoul.com/
+Added: Modulobox gallery script instead outdated Prettyphoto
+Added: New carousel styles
+Added: general optimization of styles
+
+Deprecated: Check this list to see deprecated things https://wpsoul.com/rehub-7-update/
+
+6.9.8 - 25 july 2017
+
+Added: Option to choose layout for brand taxonomy page
+Fix: Fix of category box
+
+6.9.7 - 20 july 2017
+
+Added: New Extended Full width Product Layout Woocommerce
+Added: New separate widget area for single products Woocommerce
+Added: Global code zone areas for Products Woocommerce
+
+
+6.9.6 - 15 july 2017
+
+Added: New option to parse images from external url for RH Frontend PRO https://www.youtube.com/watch?v=b76Zc0G2Bw0
+Added: New Addon for Wordpress ALL import and Content Egg
+Added: New design for category card module
+Fix: Decimal point for Autocontent shortcodes
+Added: Many improvements based on buyer's requests
+Updated: VC (Zigzag divider, Hover Flipbox) and Revolution Slider
+
+
+6.9.5 - 30 june 2017
+
+Update: compatibility with woocommerce 3.1 + other fixes
+
+6.9.4 - 23 june 2017
+
+Added: New Post layout with big text fort optimized for Reading, good for articles http://rewise.wpsoul.net/reading-optima/
+Added: Auto button before content if you have MDTF sidebar on page (special for mobiles)
+Added: MDTF for categories is supported now in Redirect
+Added: video tutorial about search filters, frontend submit, WPSM specification https://www.youtube.com/watch?v=_1KYXN8Rv1A
+Added: tutorial how to disable default dokan submit functions and replace with custom http://rehubdocs.wpsoul.com/docs/rehub-theme/advanced-tips-and-customizations/enable-custom-frontend-posting-for-dokan/
+
+
+6.9.3 - 7 june 2017
+
+Added: Hidden products are disabled in ajax search
+Added: Used product price for Amazon comparison list
+Added: Improvements for Flipkart list layout
+Added: MDTF widgets are automatically synchronized when they are on category pages
+Added: Helpful tutorials http://rehubdocs.wpsoul.com/docs/rehub-theme/user-submit-memberships-profiles/auto-adding-affiliate-links-to-user-submitted-offers/ http://rehubdocs.wpsoul.com/docs/rehub-theme/advanced-tips-and-customizations/
+and many other improvements
+
+6.9.2 - 23 may 2017
+
+Added: New user's review list shortcode http://rehubdocs.wpsoul.com/docs/rehub-theme/reviews-product-review-types-user-reviews/list-of-user-reviews-shortcode/
+Added: Support for custom points for Mycred
+Added: New template for categories for Recash
+Added: Option to use price range filter for categories
+Added: Transparent header option for Page builder page
+Added: Option to register member type by adding ?membertype=yourmembertype to register link Buddypress
+Fixed: Empty shop pages in dokan in some cases
+Fixed: Map visibility in tabs
+
+6.9. - 6.9.1.4 - 21 april 2017
+
+fixes and compatibility with woocommerce 3.0 version
+
+6.9 - 5 april 2017
+
+Added: Product grid carousels
+Added: Support for Woocommerce 3.0 (zoom for Product image, dynamic carousel on Product page)
+Added: Extended support for Dokan
+Added: Manual review box (to add multiple review boxes in posts)
+Added: Revolution slider plugin to bundle
+Many fixes and improvements
+
+6.8.9.5 - 25 march 2017
+
+Added: support for Custom post type for Post list widget
+Added: Hottest posts sorted by date filter for filter panel
+Added: Frontend Affiliate search based on Content Egg https://wpsoul.com/guide-creating-profitable/#frontend-affiliate-search-in-content-egg
+
+6.8.9 - 4 march 2017
+
+Added: Better mailchimp shortcode
+Improvements: Better Content Egg compatibility and mobile styles
+
+6.8.6 - 26 february 2017
+
+Added: Second description field for category
+Added: New orderby filters (by discounts)
+Added: Price range filter for filter panel
+Added: Auto creating of store pages for Content Egg
+Added: New Ajaxed templates for MDTF
+Added: Option for category filter panel
+Added: New step by step guide for Affiliate Websites https://wpsoul.com/guide-creating-profitable/
+Updated: Fixes and many other updates
+
+6.8.4 - 13 february 2017
+
+Added: Option to allow only users to use thumbs meter
+Added: Experimantal schema type for deal sites http://rehubdocs.wpsoul.com/docs/rehub-theme/affiliate-settings/schema-types-for-deal-sites/
+
+6.8.2 - 11 february 2017
+
+Change: Now, affiliate button in bottom of page is optional (enable it in theme option - affiliate)
+Added: Option to register as vendor from Buddypress Registration page
+Added: Private message button shortcode http://rehubdocs.wpsoul.com/docs/rehub-theme/how-to/how-to-add-private-message-button-for-post-author/
+Added: support for MediaPress plugin
+
+6.8.1 - 02 february 2017
+
+Fix: different fixes and small improvements
+
+6.8 - 26 january 2017
+
+Added: AMP extended support https://wpsoul.com/amp-wordpress-setup/
+Added: Compatibility for PepperJam module of Content Egg PRO
+Added: Option to disable schema format of theme
+Added: compact mobile design of Recash deal grid, list and for Content Egg simple list
+Improvements: Security, Speed and some other improvements and fixes
+
+6.7.6 - 14 january 2017
+
+some fixes
+
+6.7.5 - 13 january 2017
+
+Improvement and fixes: added woocommerce elements to comparison top charts, different fixes and improvements
+Added: posibility to sort by review criteria score and show them in tables, comparison charts
+Added: Deal of day widget works also for Posts
+
+6.7.4 - 4 january 2017
+
+Fix: jquery fix for some servers
+
+6.7.3 - 3 january 2017
+
+Added: RT media templates for BP, better avatar support and some fixes
+
+6.7.2 - 29 december 2016
+
+Fix: fix in slider width + improved logo image in deal grid + other fixes
+
+6.7.1 - 28 december 2016
+
+Improvements: replaced outdated flash zeroclipboard with better js script, deleted not important now modernizr, fixed some bugs in scripts
+
+6.7 - 27 december 2016
+
+New Membership functions. Read article https://wpsoul.com/creating-social-business-advanced-membership-site-buddypress-and-s2member/
+New design for main theme
+Better support for S2member plugin		
+New RH Buddypress Member Type manager plugin for Buddypress in bundle	
+New shortcodes for Members and Buddypress
+New design for Buddypress
+Share Buddypress Profile			
+Seo improvements for Buddypress profiles (including schema and aggregate reviews)
+Conditional widgets for Buddypress profile, WC Vendor store
+Better support for S2member plugin		
+Option to add product and posts to BP Profile page. Option to include submit forms in Profile.
+Option to sync wc vendor role and S2member roles
+Customized and improved Registration pages for Buddypress		
+Full support of theme modal login with Buddypress and S2member
+Custom redirects for login modal
+Better support for S2member plugin		
+Updated RH Grandchild theme to customize child themes (supported also overwriting files from child theme)
+Full width carousel style for deal carousel
+New code section in header (for new analytics code)
+Better support for S2member plugin		
+Updated RH Grandchild theme to customize child themes (supported also overwriting files from child theme)
+Support for Offer and ImpactRadius modules of Content Egg
+Star rating script was improved, supports now also BP profile
+Full content wrappers were improved to make theme better compatible with other frameworks
+Updated design for Blog and columns modules
+Better brand/taxonomy archive shortcode
+Mobile menu
+Custom backgrounds for posts due to speed problems and mobile issues with this function. But this function works for global settings				
+
+Important!!!: You can have some problems while update. So, we included previous version in bundle. Read https://wpsoul.com/rehub-6-7-update/
+
+6.6.4 - 6 december 2016
+
+Some fixes
+
+6.6.3 - 5 december 2016
+
+Added: Inner product comparison function instead of bad YITH woocompare plugin http://rehub.wpsoul.com/documentation/docs.html#dynamicchart
+Fixes: Many fixes and improvements for Post layouts
+
+6.6.2 - 24 november 2016
+
+Added: New screenshots and videos field in right panel. Also new gallery field in RH Frontend plugin
+Improvements: many improvements in Post layout, menu, top review templates
+Update: Visual Composer
+Deprecated: Offerbox doesn't show now automatically in the end of post and was changed to button. You can insert offerbox with shortcode or write in comments for back compatibility. Use special Post Layouts for better design of Affiliate Posts.
+
+6.6.1 - 15 november 2016
+
+Fixed: Some bugs in mobile version
+
+6.6 - 13 november 2016
+
+Added: Mega Menu https://www.youtube.com/watch?v=0368rM7gXt8
+Added: Vacation mode to Vendor's store pages
+Update: Visual composer
+
+6.5.2 - 5 november 2016
+
+Fix: Couple of fixes and improvements based on user's feedbacks
+
+6.5.1 - 2 november 2016
+
+Fix: Couple of fixes and improvements based on user's feedbacks
+
+6.5 - 30 october 2016
+
+Added: New child theme Rewise http://rewise.wpsoul.net
+Added: New sticky contents shortcode
+Added: Automatic comparison charts from Flipkart specification (required Content Egg PRO)
+Added: Shortcode to add offers to multioffer list from frontend
+Imrovements: tons of improvements
+
+6.4.1 - 21 october 2016
+
+Added: New shortcodes for top review posts and post scorebox http://rehub.wpsoul.com/documentation/docs.html#35
+Added: Better Content Egg logo logic and some fixes
+Added: Price alert and Price history modules for upcoming Content Egg 2.8 version
+Added: Option to use custom link for register page in Login Popup
+Fixes: Many fixes and improvements
+
+6.4 - 14 october 2016
+
+Added: Post layouts (Title in image, Big offer, Offer + review, Comparison price layout and other)
+Added: Auto Post layouts for Content Egg Pro and many great improvements https://www.youtube.com/watch?v=TZOZ9Hvhp3E
+Added: Option to choose product for synchronization with Content Egg
+Added: New Content Egg compact widget for price comparison
+Added: Widget for price history tracker in Content Egg
+Added: Share buttons on product pages
+Added: Auto theme updater for child themes
+Added: Option to set custom slug for Blog categories and tags
+Added: Option to set category ID for custom search module
+Added: Updated Top offer block for posts
+Added: Option to change user review and pros, cons for admin in user reviews
+Fix: Repick white titles
+
+6.3.0.1 - 27 september
+
+Some fixes for comparison button and vendor list
+
+6.3 - 24 september 2016
+
+Added: Now, dynamic comparison supports multi groups
+Added: Option to enable separate Blog Post type (if you want to separate post-offers and post-news
+Added: Grandchild theme plugin for customization child themes
+Added: Verified label for WC Vendor PRO store page							
+Important!!!: If you update Redirect theme, go to theme option - Affiliate and enable Blog post type there
+
+
+6.2.9.2 - 17 september 2016
+
+	Added: Preparation for user multioffer child theme. Now, you can enable multi offers in Post section (check Theme option - Affiliate)
+	Added: PayTM and Admitad custom templates for Content Egg		
+	Added: When user contact vendor from product page, link on product will be added in message area	
+	Improvements: Some small speed improvements if you have many categories, tags		
+	Fixes: Fixes in localization and support for YITH wishlist for multisite	
+	Update: Visual Composer				
+
+	Important!!!: If you update Recash child theme - go to theme option - Affiliate and enable brand taxonomy there, then go to Settings - Permalinks and resave page	
+
+6.2.9.1 - 5 september 2016
+	
+	Fix: social icons on mobiles
+
+6.2.9 - 4 september 2016
+
+	Added: Flipkart.com custom output templates for Content Egg. Due to technical reasons, Affiliate Egg doesn't support Flipkart now, so, use Content Egg instead
+	Added: Second description for brand store archive pages + separate sidebar area for store pages
+	Improvements: for WC Vendor PRO, when user registers in popup, he goes to store settings page before being apply as vendor
+	Added: Map on vendor page if vendor added location with Geo My Wordpress
+	Added: Link hider from google shortcode in visual editor panel
+	Added: Synchronization for user and product location https://wpsoul.com/how-to-create-multi-vendor-shop-on-wordpress/#toph2_8
+	Added: Better tutorial for combination theme and Content Egg, how to make profitable comparison site https://www.youtube.com/watch?v=7nzL2R0XkVE		
+	Improvement: Social share links were changed to non links to improve seo profile of site
+	Improvements: Recash child theme: fix for deal grid height, option to add button for categories in grid, sale badge, option to change deal store slug, option to make extended full width and other
+	Improvements: Repick child theme: you can use woocommerce for repick grid
+	Improvement: Rething child theme: option to disable crop in grid	
+
+
+6.2.8 - 14 august 2016
+
+	Added: ability to add vendor header and logo in Wc Vendor Free
+	Added: compatibility with MyCred 1.7
+
+6.2.7 - 12 august 2016
+
+	Added: Some additional shortcodes for table constructor
+	Added: Synchronization for XProfiles and login popup, woocommerce form, WC Vendor form
+	Added: Logic for adding categories to vendor(user) and user filters. Check tutorial https://wpsoul.com/how-to-create-multi-vendor-shop-on-wordpress/#toph2_7
+	Added: Better search templates for Geo My Wordpress
+	Added: Login popup also sends emails to vendors now
+
+6.2.6 - 7 august 2016
+
+	Added: Support for member subscriptions and restricted access https://wpsoul.com/monetizing-community-sites-post-submissions/
+	Added: Option to change permalink for woocommerce store brand archives
+
+6.2.5 - 1 august 2016
+
+	Couple IOS fixes
+
+6.2.4 - 31 july 2016
+
+	Added: Business locator for posts http://redirect.wpsoul.net/home-page-with-business-locator/ http://redirect.wpsoul.net/home-page-with-business-locator/ Updated article https://wpsoul.com/creating-business-directory-site-with-search-filters/#toph2_6
+	Added: gallery image upload for RH Frontend PRO + synchronization map field with Geo My WP location field
+	Fixed: Related article fix for Redirect Child theme
+
+6.2.3 - 27 july 2016
+
+	Added: Store locator for vendors http://revendor.wpsoul.net/store-locator/
+	Added: better support for php 7.0
+
+
+6.2.2 - 23 july 2016
+
+	Fixes: some fixes for iOS + improvements
+
+6.2.1 - 22 july 2016
+
+	Added: support for follow/unfollow (based on BP follow plugin)
+	Added: activity stream in Buddypress shows also products
+	Fixes: some fixes
+
+6.2 - 20 july 2016
+
+	Added: Extended WC Vendor support and new Revendor child theme. Demo http://revendor.wpsoul.net/ How to setup multivendor site https://wpsoul.com/how-to-create-multi-vendor-shop-on-wordpress/
+	Added:Woocommerce major update for some modules + new woocommerce featured area module (supports also custom height)
+	Added:New header layout for shop
+	Added:New widgets for woocommerce – Woo deal of day, better categories + featured slider widget supports woocommerce now
+	Added: Countdown for woocommerce single pages supports also default schedule fields for sale dates
+	Added:Related block for blog for redirect theme
+	Added:Seo titles for dynamic comparison charts
+	Added:Better support for RT media Buddypress
+	Fixes:Some fixes, improvements, etc
+
+6.1.2 - 17 june 2016
+
+	Update: woocommerce compatibility with 2.6.1 version
+
+6.1.1 - 15 june 2016
+
+	Added: new separate widget area for Woocommerce and MDTF (please, update your widgets)
+	Added: Woocommerce updates (new woocommerce rows module, option to show products by User ID, update design of woocommerce columns, added featured label, added better cart and account layout and much more)
+	Added: Pros and Cons fields for review
+	Update: Visual Composer + better support VC and Custom post type UI plugin
+	Update: Specification plugin, RH Frontend PRO (added paid submit and bug fixes)
+	Fixes: many small fixes and improvements
+
+
+6.1 - 1 june 2016
+
+	Added: New bonus plugin RH Specification fields and Post layout builder
+	Added: New child theme Re:Direct http://redirect.wpsoul.net
+	Added: Tutorial for setting directory sites https://wpsoul.com/creating-business-directory-site-with-search-filters/
+	Added: 3 new Home pages templates for Visual composer (check demos on http://redirect.wpsoul.net )
+	Added: Conditional widget which shows only on single pages
+	Update: RH Frontend PRO plugin now supports paid submission, numeric fields, map fields
+	Update: improvements for some shortcodes and bug fixes
+
+
+6.0.7 - 26 may 2016
+
+	Added: Support for favorites posts based on thumb meter. Use shortcode [rh_get_user_favorites] to show favorites posts of user
+	Added: New module category box for visual composer
+	Added: Search module now can search among taxonomies, categories
+	Changed: Hot metter
+
+6.0.6 - 25 may 2016
+
+	Added: support for new version of Content Egg (Tradedoubler, OptimisedMedia, AffiliateWindow supported)
+	Some fixes
+
+6.0.5 - 14 may 2016
+
+	Added: Option for custom message in register popup
+	Added: Woocommerce shortcode zone for buttons and for summary. Use it for price comparison sites. Check video https://www.youtube.com/watch?v=5-9B69fLa24
+	Added: Price comparison shortcode for Content Egg, Affiliate Egg (with logo of merchants instead of product images)
+	Added: Better single product design for woocommerce products (no croped images now, better cart and other improvements)
+	Added: Brand store archive shortcode can show only logos now ([wpsm_tax_archive type=logo])
+	Added: Woo comparison list shortcode (shows logo of stores instead of product images)
+	Added: Schema format was changed to JSON-LD
+	Added: Import extensions for WPAI were updated. Check new video https://www.youtube.com/watch?v=QSuTOSEeF_Y
+	Deprecated: Additional deals panel in woocommerce products for attaching other woocommerce and thirstyaffiliate deals (tell me if you need it again)	
+
+
+6.0.4 - 24 april 2016
+
+	Couple of fixes
+
+6.0.3 - 24 april 2016
+
+	Added: multiple post types in ajax search
+	Added: update for Rehub Wp all import extension - now with ability to add reviews
+	Added: Option to add frontend reviews http://rehub.wpsoul.com/documentation/docs.html#frontreview
+	Update: Visual Composer
+
+6.0.2 - 13 april 2016
+
+	Fixes: login popup for 4.5 wordpress + update of RH Frontend Posing plugin + button fix in columned grid
+
+6.0.1 - 12 april 2016
+
+	Fixes: couple of fixes
+
+6.0 - 12 april 2016
+
+	Added: BuddyPress support and customizations
+	Added: Notificator from Buddypress in user dropdown section
+	Added: MyCred support and customizations + additional hook for post likes
+	Added: Option to show badges, ranks, points in default comment system (theme option - user options)
+	Added: Option to disable BP email activation
+	Added: Option to have a link to author page for users in comments
+	Added: Option to redirect author page to BuddyPress
+	Added: Customizable header layout (enable button, login section, search, additional menu in header). Use it instead of old way with shortcodes in header
+	Added: Separate colors for buttons, main color of elements and secondary colors
+	Added: New shortcode for update notices
+	Added: Powerfull customizable filter panels for post loops in VC
+	Added: Ajaxed tab widget
+	Added: Share buttons in bottom sliding panel on mobiles
+	Added: Default styles for inputs and buttons
+	Added: Support for Nelio external images and theme thumbnails
+	Added: taxonomy value field in top table constructor
+	Added: New bundled plugin for FrontEnd posting (now with support of editing posts). Based on Frontend Posting PRO. Note, if you have this plugin - deactivate it first, because bundled plugin is customized and with some improvements
+	Added: Bodybuilding.com, Suppz.com, airnb.com, booking.com parsers for Affiliate Egg
+	Fixes: Many small fixes and improvements
+	Update: Visual Composer
+
+5.9.2 - 21 march 2016
+
+	Added: printable coupon function for woocommerce (must be enabled in theme option - shop settings)
+	Added: User reviews star rating column in top table and top chart constructor (based on full reviews)
+	Added: Carousel template for Amazon Content Egg module
+	Improvement: Filters for grid index in Repick are dropdown on mobiles
+	Fixes: Couple of other fixes
+
+
+5.9.1 - 16 march 2016
+
+	Fix: couple of fixes for woocommerce + some preparation for v.6
+	Added: option to enable/disable sidebar on woocommerce posts
+
+5.9 - 13 march 2016
+
+	Added: Better woo list template
+	Added: Better author template
+	Added: Store page template functions for woocommerce (divided by deals and coupons, added description, etc)
+	Added: Better woocommerce single page template (full width, better button block, compact related block) 
+	Added: Deal Thumbs counter for woocommerce (you can enable it in theme option - shop option)
+	Added: Some strings to localization options (title for comments, Where to buy section, etc)
+	Added: Additional meta data for Repick grid (theme option - repick settings - grid settings)
+	Added: Templates for quick set of demo page layout in Visual Composer
+	Added: Jabong.com custom parser for Affiliate Egg
+	Improvement: Better woocommerce top offer widget	
+	Improvement: Better coupon reveal popup
+	Improvement: Better logic for deal expiration
+	Update: VC,MDTF, AccessPress plugins
+	
+
+5.8 - 22 february 2016
+
+	Added: ajax search (possible for default search form in header and for search VC module). See example http://rehub.wpsoul.com/layout-with-ajax-search/
+	Added: option to choose post type for default search form
+	Added: separate logo field for sticky menu
+	Added: option to grab featured image from video for video post
+	Added: more filter options for woocommerce VC modules (now you can add also any taxonomy filter)
+	Fixes: many small fixes, improvements
+
+
+5.7.2 - 14 february 2016
+
+	Fix: couple of fixes and some speed optimization
+
+5.7.1 - 10 february 2016
+
+	Added: better fallback thumbnail for woocommerce. Now, products without images look much better. Also, image is dynamic, based on type of product (product, deal with discount, coupon)
+	Added: Store taxonomy for woocommerce. Now, you can add store pages and divide all deals by stores. Also, it's better to use this taxonomy for creating store archives. So, you don't need to use tags for stores and store page has better link. More information http://rehub.wpsoul.com/documentation/docs.html#woobrand
+	Fix: woocommerce external button
+	Fix: woocommerce ajax add to cart link
+	Improvement: autocomplete function of VC. This allowed to reduce 70% of memory usage on sites with big amount of tags/categories/taxonomies
+	Update: Visual composer 
+
+5.7 - 6 february 2016
+
+	Major update. Please, read about important changes https://wpsoul.com/rehub-5-7-update/
+
+	Added: option to use logo in one line with menu + compact logo section for mobiles + logo in sticky menu
+	Added: Brand archive shortcode. Example, http://rehub.wpsoul.com/offer-archive/
+	Added: New social share icon style
+	Added: New Video Playlist module http://rehub.wpsoul.com/layout-variant-8/
+	Added: New 3 post module + simple list of post module
+	Added: Option to change colors of footer widget area
+	Added: 2 new featured areas (full width slider, bottom text slider, grid area) http://rehub.wpsoul.com/layout-variant-1/ http://rehub.wpsoul.com/layout-7/
+	Added: New better Title module with tons of possibilities
+	Added: All modules in VC have color badge options and much more filters
+	Added: better image resizer class + lazy load option for thumbnails
+	Added: better expired function for woocommerce
+	Added: Smart sidebar scroll function for VC row
+	Added: new design of all carousels + deal carousel module + woocommerce carousel
+	Added: Better blog layout
+	Added: Better slider shortcode
+	Added: Extensions for Wordpress All Import plugin to import offers in post or woocommerce (available in Rehub - Plugins Tab)
+	Added: Posibility to use quick_offer shortcode with ID
+	Fix: Ecwid css
+	Fix: Shortcode generator now is compatible with Rocketloader
+	Fix: Responsive for relative articles	
+	Update: Visual Composer + Woocommerce templates + Ecwid layout
+	Update: Design of all modules were updates.
+
+
+5.6.1 - 7 january 2016
+
+	Fix: pagination issue for wordpress 4.4.1 + other small fixes
+	Fix: sideout widget for adsense oriented layout
+	Update: blockquote design is now more universal and better compatibility
+	Added: global option to disable left align of featured image in post for Re:pick child
+
+V5.6 – 31 DECEMBER 2015
+
+	Added: Table responsive script for top table constructor
+	Added: New badge system
+	Added: Better logic for woocommerce coupons offer – now you can disable expired offers from archives and related products
+	Added: Better UI for admin page. Now, theme has own page with quick links to docs, plugins + direct links for clone files (only for official buyers)
+	Added: Infinite scroll for repick theme archives
+	Improvement: Better icecat specification table
+	Improvement: Updates for some Content Egg templates
+	Update: for Visual Composer 4.9.1
+
+5.5 - 16 december 2015
+
+	Added: Dynamic comparison function http://rehub.wpsoul.com/documentation/docs.html#dynamicchart
+	Added: Specification template for Amazon (data is from icecat.biz)
+	Added: Specification shortcode from Icecat.biz http://rehub.wpsoul.com/documentation/docs.html#addicecat
+	Added: Infinite scroll for columns grid in VC
+	Added: Shareasale templates for Content Egg
+	Improvement: Article schema changed to Product schema as it's more stable for google. You can disable Product schema from theme option - review/affiliate option
+	Improvement: Better design for comparison charts, sticky header on scroll, dynamic differences
+	Improvement: Logic in user reviews. When you delete user review, user can add new review
+	Improvement: LinkID for offerbox is supported again
+	Improvement: Updated class for autocontents. Now, supported several levels. Example, [contents h2 h3] 
+	Update: Visual Composer 4.9 included
+
+
+5.4.2 - 29 november 2015
+
+	Fix: Price update data in affiliate egg templates
+	Fix: MDTF specification fixes
+	Fix: Vimeo video thumbnails
+	Improvement: some security improvements
+	Added: Author image for testimonial shortcode
+
+5.4.1 - 20 november 2015
+
+	Added: Multiple module select for synchronization between main offer and Content Egg offers
+	Added: Option to show random product in Top offer widget
+	Improvement: Additional button is not visible when offer has coupon with reveal function
+	Improvement: Table Maker plugin is moved to wordpress repository
+	Fix: Multiple countdown shortcode on page
+	Fix: some deprecated filters for Seo by Yoast are removed
+	Deprecated: linkID parameter in offerbox shortcode
+
+
+5.4 - 15 november 2015
+
+	Added: Static table builder plugin (Table Maker). Some demo http://rehub.wpsoul.com/static-table-example/
+	Added: prefix and postfix for meta key values in Top charts builder
+	Improvement: Better WC Vendor support + tutorial https://wpsoul.com/how-to-create-multi-vendor-shop-on-wordpress/
+	Update: for Visual Composer 4.8.1  
+
+5.3.3 - 4 november 2015
+
+	Fix: Custom header background and other small fixes
+
+5.3.2 - 3 november 2015
+
+	Added: Adsense optimized layout (theme options - Review/Affiliate). 
+	Fix: fixes for Repick theme white background
+
+5.3.1 - 2 november 2015
+
+	Added: more background customizations
+	Fix: small fixes for Repick theme and Affiliate Egg parsers
+
+5.3 - 1 november 2015
+
+	Added: White style for repick theme
+	Added: option to use shortcode for woocommerce deals list. Check docs http://rehub.wpsoul.com/documentation/docs.html#31
+	Added: Autoupdate price function for woocommerce + Content Egg
+	Added: Template for Favorites plugin with thumbnails 
+	Improvement: Header style, now each line of header can be customized separately
+	Improvement: Css optimization (changed all system images to font icons)
+	Improvement: Support for new title function of wordpress 4.4
+	Improvement: Amazon templates for Content Egg now have time of last update (according to new Amazon rules)
+	Update: Visual composer to 4.8
+
+
+5.2 - 19 october 2015
+
+	Added: RTL support
+	Added: option to disable button in post loops
+	Added: category filter for Repick child theme
+	Added: option to use simple button instead of full offer in Repick theme	
+	Added: support favorites button in column posts module
+	Improvement: changed logic of hot filter in Repick (now it's showing deals which reached "hot" temperature and sorted by date. You can set "hot" limit in theme options - repick options)
+	Improvement: better support masked coupons for non flash browsers
+	Improvement: compatibility for jQuery smooth UI
+	Improvement: many different improvements and fixes
+	Improvement: full width slider for Rehub + added offer button in main slider + some reduce of css and js code
+
+
+5.1 - 6 october 2015
+
+	Improvement: added password field to user login + better compatibility with UM plugin
+	Improvement: some compatibility improvements for Woozone Affiliate
+	Added: link hider shortcode http://rehub.wpsoul.com/documentation/docs.html#linkhide
+	Update: Visual Composer to 4.7.4 (recommend to update plugin because of XSS vulnerability in previous version)
+
+5.0 - 27 september 2015
+
+	Added:  User login, user profiles, user submit, social login - make your site as community. Read docs http://rehub.wpsoul.com/documentation/docs.html#user1
+	Added:  WC multivendor support for woocommerce visual composer modules
+	Added:	Conditional user loggined menu
+	Added:	Option to choose tags as base for relative posts (check theme option - global enable/disable)
+	Added:	Login/register ajax popup, user login buttons, links in header
+	Added:	User dropdown for loggined users
+	Added:	Customizations for Ultimate Member plugin (better user profiles, social login buttons, tabs in profile, etc.)
+	Added:	Customizations for Wordpress Social Login plugin (better design, icons, automatically added in Ultimate Member forms and default theme popups)
+	Added:  User Submit function
+	Added:	Option in Repick theme to choose link on title (affiliate or on post)
+	Added:  Search form changed to html5 standarts and added in 404 page, option to add search link in menu, search popup
+	Added:  Custom templates for Content Egg for Affili.net, Linkshare
+	Improvement: Some seo improvement for scroll link
+	Improvement: UI improvements in popups (added transitions, fixed some issues)
+	Improvement: Redesign shortcode buttons (now with modern flat design)
+	Fix: Fix for reveal shortcode and some other fixes
+	Deprecated: some unnecessary css and js code
+	Update: Visual composer to 4.7.2
+
+
+
+
+
+4.9.1 - 11 september 2015
+
+	Added: support for favorites plugin for Rething child theme
+	Fixes: old php compatibility fix + some small fixes
+
+4.9 - 8 september 2015
+
+	Added: support for WC vendors plugin (for creating multivendor stores)
+	Added: support for Report content plugin (for creating button for reporting broken links, issues, etc http://rehub.wpsoul.net/documentation/docs.html#reportbtn )
+	Added: CJ links and coupons for free version of Content Egg, CJ products for PRO version support
+	Added: custom parsers for Affiliate Egg - Etsy.com, wiggle.com, wiggle.co.uk, shopclues.com
+	Added: localization .pot file for support Loco Translate plugin
+
+4.8.1 - 1 september 2015
+
+	NEW!:  Content Egg plugin support + free version. Check video https://www.youtube.com/watch?v=rqfg4H3jFXk
+	Added: User review filters in comments + some improvements in UI
+	Added: Reveal shortcode. Example, [wpsm_reveal textcode='EXAMPLE' btntext='Reveal code' url='http://google.com']
+	Added: social icons for grid in Rehub and Rething
+	Added: Slider module for Repick
+	Improvement: css customization code now optimized by default
+	Improvement: option to change place of image in cartbox
+	Fix: search word fix, background fix for Repick
+	Fix: author name fix for Rehub
+	Fix: affiliate link option for thumbnail in top table constructor
+	Update: Font Awesome icons, TGM activation class
+
+ 	Deprecated: favicon function from theme option. Set favicons from default wordpress 4.3 option in Appearance - Customize - Site Identity - Site Icon
+
+
+4.8.0 - 20 august 2015
+
+	Fix: pagination fix for VC grid module
+	Update: MDTF plugin with compatibility for wordpress 4.3
+	Added: some templates for Content Egg plugin
+
+4.7.9 - 17 august 2015
+
+	Added: support for favorites plugin for Rehub and Repick. See docs http://rehub.wpsoul.net/documentation/docs.html#favor
+	Added: tag filter, include, exclude, support for custom post type and custom taxonomy for VC loop modules
+	Improvement: woocommerce compatibility for last version
+	Improvement: now all modules store price in rehub_main_product_price meta field
+	Improvement: option to choose inner and external links in grid (for Repick)
+	Improvement: option to include/exclude category from grid index (for Repick)
+	Update: VC to 4.6.2
+
+
+4.7.8 - 4 august 2015
+
+	Added: Float social buttons on images in grid loop (for Repick child theme)
+	Fixes: Couple fixes for user reviews
+	Update: Amazon parsers now is moved to plugin. If you have amazon parsers in child theme - remove them.
+
+4.7.7 - 2 august 2015
+
+	Added: thumbs buttons to user reviews (enable them in theme option/reviews)
+	Improvement: changed ajax js function to better compatibility with new jquery versions
+	Fix: images for amazon parsers of affiliate egg
+
+4.7.6 - 27 july 2015
+
+	Added: Scorebox shortcode (docs http://rehub.wpsoul.net/documentation/docs.html#scorebox)
+	Improvements offer section supports different price patterns (set them in theme options - localization)
+	Improvement: Table constructor supports custom post type
+	Fix: price discount label fix for some cases + other fixes
+	Added: snapdeal.com, ebay.es, amazon.es custom parsers for affiliate egg
+
+
+4.7.5 - 22 july 2015
+
+	Fix: some small fixes and improvements
+
+4.7.4 - 21 july 2015
+
+	Fix: woocommerce single image fix
+
+4.7.3 - 21 july 2015
+
+	Fix: long urls are working now in branded area and in offer url field
+	Improvement: user review text is formatted now
+	Improvement: clean up some css
+	Added: pl_PL localization
+
+4.7.2 - 20 july 2015
+
+	Fix: branded banner area for single page
+
+4.7.1 - 20 july 2015
+
+	Fix: small fixes in woo slider + small changes in design of user comments
+
+4.7 - 19 july 2015
+
+	Added: Additional woocommerce layout, option to choose 3 or 4 columns in archives
+	Added: Compact grid module for visual composer
+	Added: Ability to use html, shortcodes in branded banner area (in single posts, for category and globally)
+	Added: de_DE localization (not full)
+	Improvements: Woocommerce grid module (now you can choose up to 6 columns in row)
+	Improvements: Woocommerce now has slider and carousel for main image area
+	Fix: couple of fixes for reviews, EDD, etc
+	Update: schema according to new google rules for article schema
+
+
+4.6.9 - 14 july 2015
+
+	Fix: Jquery fix
+
+4.6.8 - 13 july 2015
+
+	Fix: Pagination bug for custom loops on homepage (for next, previous buttons)
+	Fix: Logo url for woocommerce tags
+	+ some other small fixes
+
+4.6.7 - 11 july 2015
+
+	Fix: Fixes for affiliate egg parsers
+
+4.6.6 - 11 july 2015
+
+	Fix: Some VC modules and other fixes
+
+4.6.5 - 10 july 2015
+
+	Fix: VC shortcodes attributes
+
+4.6.4 - 9 july 2015
+
+	Update: Visual Composer (youtube video backgrounds, new tabs, accorditions), some speed improvements
+	Improvement: Now you can set url for brand image in woocommerce, post offer section (useful for bulk import)
+	Improvement: Widget construction for compatibility with 4.3 wordpress
+	Added: New widget Post image grid
+	Added: Ebay.de parser for affiliate egg
+
+4.6.3 - 4 july 2015
+
+	Fix: Some fixes for footer
+	Improvement: Now you can choose what schema type to use for review (review or aggregate review)
+	Improvement: Option to change color of button separatelly from theme color
+	Added: Fixes for custom templates and custom parsers for Affiliate Egg. Added Amazon.it, Saturn.de parsers (you need update also child themes if you use them)
+
+4.6.2 - 30 june 2015
+
+	Fix: fix some bugs for Affiliate Egg parsers. Added flipkart.com and amazon.in parsers
+
+4.6.1 - 30 june 2015
+
+	Fix: syntax error if you use old php version on hosting
+
+4.6 - 28 june 2015
+
+	New: Enhanced support for Affiliate Egg plugin https://www.youtube.com/watch?v=0zvplPxeuWs
+	New: Meet RE:Pick. New child theme of RE:Hub. Demo https://repick.wpsoul.net
+	Fix: Many small bugfixes
+	Fix: prettyPhoto XSS fix
+
+	Update: Visual composer to 4.5.3 with prettyPhoto XSS fix
+
+4.5.2 - 12 june 2015
+
+	Fixes: Some small compatibility fixes
+
+4.5.1 - 10 june 2015
+
+	Improvement: Post offer section now works good with any import plugin + some optimization
+
+4.5 - 8 june 2015
+
+	Fix: critical bug in admin page (in file admin/sources.php)
+
+4.4 - 7 june 2015
+
+	Added: Categories ajax directory shortcode (example, http://rehub.wpsoul.net/categories-directory/)
+	Added: Cartbox module and shortcode (example, http://rehub.wpsoul.net/directory-carts/)
+	Added: Option to choose layout for search pages
+	Added: Ajax function to count post views. So, post views works with cache plugins now
+	Added: Post offer panel. Now post offers can be added to any post format and works with reveal coupons. You can import offers to post with wp all in one plugin now
+	Added: Additional deals panel for woocommerce now works with other woocommerce products
+	Added: New look of post-previous buttons
+	Improvements: Tabs widget have more options. Please, resave your tabs widget
+	Improvements: Offers block and review is on content hook now.
+	Improvements: Top comparison charts have a table look if has only 2-3 posts
+	Improvements: Better schema for user reviews
+	Improvements: Post edit page is not broken now if you have many woocommerce products
+	Fix: Line in featured slider for retina display
+	Fix: Catalogue constructor shows custom read more button now
+	Fix: Filter by tags for woocommerce modules of VC
+
+	Deprecate: Second cover background for branded pages
+
+
+4.3.3 - 20 may 2015
+
+	Added: New template for visual composer (background block with links)
+	Fix: some stretching images in mobile view
+
+	Update: Visual composer to last version
+
+4.3.2 - 11 may 2015
+
+	Added: Shortcode for links in title for top table constructor
+	Fix: mobile menu for RE:Things child theme
+	Fix: many small fixes and improvements
+
+	Update: RE:Thing child theme
+
+
+4.3.1 - 6 may 2015
+
+	Added: Option to set url for review slider
+	Added: Option to set thirstyaffiliates category for top offers widget
+	Fix: Custom header background 
+
+	Update: RE:Thing child theme
+
+4.3 - 5 may 2015
+
+	Added: Better support for non standard mobile resolutions (like in iphone 6 +). Now layout for mobiles are full width for any resolution
+	Added: Editor's score badge in items for top list, top table pages
+	Added: Top comparison charts constructor
+	Added: Shortcode function for creating affiliate button
+	Improvement: better menu widget suports child items of menu
+
+	Update: RE:Thing child theme
+	Update: Visual composer plugin
+
+4.2.1 - 24 april 2015
+
+	Update: Update for TGM classes for security purposes
+	Added: Option to sort review criterias and slider items in review
+
+	class-tgm-plugin-activation.php
+	admin/metabox/post_type.php
+
+
+4.2 - 21 april 2015
+
+	Improvement: changed breadcrumb function for better use with custom taxonomy
+	Improvement: improvements in tabs module and shortcode
+	Improvement: small optimizations for images in some blocks
+	Added: added body font size option
+	Added: added option to change read more text from theme options
+	Added: Meet new TOP TABLE CONSTRUCTOR (see video tutorial https://www.youtube.com/watch?v=HGR1EdabM1s)
+
+	Update for RE:Thing child theme (now included in main package of ReHub)
+	Update: MDTF plugin update (more speed and cache options + shortcode for sort panel)
+
+
+4.1.1 - 6 april 2015
+
+	Fix: Fix for datepicker, which sometimes brokes scripts in admin page
+
+4.1 - 5 april 2015
+
+	Added: Enhanced woocommerce affiliates (coupons for woocommerce, masked coupons, better logic for external links, etc)
+	Added: Top offer widget supports woocommerce 
+	Added: Option to connect posts to woocommerce lists of offers
+	Added: Woocommerce list for MDTF output template
+	Improvements: Woocommerce offers list module and shortcode
+	Improvements: Compare and wishlist buttons now interactive in product archive
+	Fix: logo + menu layout for block header
+	Fix: Rel nofollow for Button shortcode
+	Fix: Small fixes for top review shortcode
+
+	Update: Countdown now works as shortcode ([wpsm_countdown year="2015" month="04" day="03" hour="14"])
+	Update: Tutorials for auto adding products with wp all in one import plugin
+	Update: Russian localization + Danish localization added
+
+4.0.1 - 19 march 2015
+
+	Added: new header type - logo + menu in one line
+	Added: styles for mailchimp email form. See docs http://rehub.wpsoul.net/documentation/docs.html#mailchimp
+
+	Updated: Visual composer to 4.4.3 (delete and install plugin from notice in top of admin pages)
+
+4.0 - 12 march 2015
+
+	Improvement: Better compatibility with ssl protocole
+	Improvement: Better design for blockquotes
+	Improvement: Added total score counter in user review with criterias input
+	Added: Option in catalogue constructor to show posts by taxonomy
+	Added: Widget TOP OFFERS
+	Added: Widget BETTER CUSTOM MENU
+	Added: Option to set custom text for read more (good for seo)
+	Fix: Google + not correct title when share post
+
+	+ BONUS: MEET RE:Thing theme - child theme of RE:Hub. Free for buyers of RE:HUB
+
+	Some unique functions of RE:Thing
+
+	Love it plugin included
+	Link post format
+	Better default fonts and stylish typography
+	Better design of single posts
+	New module - columned grid with equal height
+	Option to choose colors of buttons separately
+	
+
+3.9.4 - 13 february 2015
+
+	Improvement: css improvements for compatibility with last version of woocommerce
+
+	functions/review_functions.php
+	functions/vc_templates/woo_mod.php
+	inc/customization.php
+	css/woocommerce.css
+	css/responsive.css
+
+3.9.3 - 11 february 2015
+
+	Added: Field to use video for top sliders
+	Added: "Popup on button" module
+	Added: Option to use infinite scroll for woocommerce grid module
+	Added: Option to disable big full width title on inner page
+	Fixes: Review script fix when comments are closed in user review system
+	Update: Flexslider to last version
+	Update: Font awesome icons
+	Improvement: js optimization (move some inline scripts from footer to main js file)
+
+3.9.2 - 4 february 2015
+
+	Added: New column grid module for visual composer
+	Added: New module for visual composer for more easy setting MDTF filters output. See docs http://rehub.wpsoul.net/documentation/docs.html#res_tem
+	Added: update in child theme, now all visual composer custom blocks work also with child theme
+	Added: Captions for post slider
+	Fixes: small fixes
+	Update: deprecated catalogue/filter-masonry template for MDTF. Use template/grid instead and shortcode [mdf_custom template=template/grid]
+	Update: now you can disable share buttons in top of page and in bottom separately
+
+3.9.1 - 30 january 2015
+
+	Fix: fix bug with comments in regular posts when you enable user review system
+	Fix: fix bug in footer widget when you use slider inside widget
+	Update: update for visual composer (delete it and install again from theme)
+
+	functions/user_review_functions.php
+	js/custom.js
+	plugins/js_composer.zip
+
+3.9 - 27 january 2015
+	
+	Added: NEW LAYOUT BUILDER WITH MORE THAN 30 custom blocks
+	Added: opening in new window for some blocks
+	Added: ability to use grid templates in search pages
+	Added: option to disable cart from header
+	Improvement: changed title block on single page + added social buttons in top of page (you can disable them and insert buttons by custom plugin)
+	Improvement: some js and css optimization
+	Improvement: improvements in adblock notificator script
+	Fix: bug in popular posts widget inside REhub: Tabs
+	Fix: fix for woocommerce order page
+	Fix: bug fix for user reviews. If you have not correct overall score of user reviews, create page, enable user review corrector, publish and view page
+	Changed: deprecated template "Landing page", use "Page for visual builder instead" as more complex
+
+
+3.8 - 28 december 2014
+
+	Added: Now you can add links to gallery block in page builder
+	Added: Copy with click on coupon code
+	Added: Option to mask coupon code
+	Fix: Fix number of posts when more than 1000 in category widget
+	Changed: Changed field for menu description (now you need to use description field, not title)
+	Fix: Some small fixes based on user feedbacks
+
+	Update: redesign and full update of docs files	
+
+	admin/metabox/aff_links.php
+	shortcodes/shortcodes.php
+	js/custom.js
+	admin/option/option.php
+	template-affarchivegrid.php
+	template-affarchivelist.php
+	function/review_functions.php
+	functions.php
+	shortcodes/shortcodes.php
+	inc/page_areas/custom-block.php
+	inc/page_areas/carousel-gallery-block.php
+	style.css
+	admin/metabox/mag_builder.php
+	mdf_templates/template/offer/index.php
+	functions/sidebar_functions.php
+
+3.7 - 20 december 2014
+
+	Fix: Fix pagination problem in offer template
+	Fix: Fixing equal height of widgets in footer
+	Fix: Fix for next - previous pagination in blocks of page builder
+	Fix: Fix ie11 menu issue
+	Added: Added tag description on tag archive page
+	Added: Added option to change color of link in post
+	Added: Added shortcode style for sidebar in MDTF plugin (reinstall plugin from theme bundle if you need it)	
+	Added: Added ability to sort affiliate list
+	Improvement: circle design of ratings in top review pages + animation
+	Improvement: tons of small improvements based on buyer's feedbacks	
+
+	style.css
+	archive.php
+	header.php
+	js/custom.js
+	functions/review_functions.php
+	admin/metabox/post_type.php
+	inc/page_areas/grid-posts-block.php
+	inc/page_areas/small-posts-block.php
+	admin/option/option.php
+	inc/customization.php	
+
+
+
+3.6 - 8 december 2014
+
+	Added: Some redesign of main menu UI
+	Added: Added option to add description for link
+	Added: Added option to choose base for ordering in top review page
+	Added: Added blank child theme + some changes for better compatibility with child theme
+	Update: Update of MDTF plugin (delete your current plugin and install again from theme bundle)
+	Added: 4 templates for ajaxed filtered page for MDTF (see docs how to use them)
+	Added: added ability to insert MDTF slideout search panel (see docs how to use this). 
+	Improvement: Added random post ordering in post list widget, added black color for post list widget
+	Improvement: Compatibility for uber menu plugin
+	Improvement: Change possition of currency to front in affiliate list
+
+	Updated: docs
+	
+
+3.5 - 30 november 2014
+
+	Added: Option to change text on buttons for each offer
+	Improvement: Deleted schema code from offer buttons for preventing schema errors
+	Added: Option to change "Choose offer" text on button from admin panel
+	Added: Added placeholders for comment section
+	Added: Added coupon option to affiliate link builder
+	Added: Added option to set sale price and old price to offers
+	Added: Added option to set date of coupon to affiliate link builder
+	Improvement: Changes in affiliate link list for woocommerce page
+	Improvement: Change menu for tablets to mobile view
+	Improvement: Added option to set category of products for woo carousel
+	Added: Added new shortcode for creating offer lists
+	Improvement: You can use video post format on ssl websites
+	Added: Added 2 templates for creating archive of Thirstylink Offers (grid and list)
+	improvement: added share to FB button
+
+3.4 - 17 november 2014
+
+	Fix: fix safari image stretching issue for 1-4 tab and shop carousel
+	Improvement: adding more compatibility for captcha plugins in comment section
+
+	style.css
+	comments.php 
+
+3.3 - 16 november 2014
+
+	Improvement: more wider layout and redesign
+	Improvement: color styles and buttons
+	Improvement: video blocks now are responsive
+	Improvement: redesign of woocommerce carousel
+	Improvement: redesign of home carousel
+	Added: full width grid layout for blog
+	Added: styles for single specification widget for MDTF plugin
+	Added: new ads block before footer
+	Added: function for post views count
+	Added: option to choose popular widget tab based on post views
+	Changed: predefinite image sizes
+
+3.2.2 - 6 november 2014
+
+	Fix: some small seo fixes and improvements
+
+	footer.php
+	functions/review_functions.php
+	single.php
+
+3.2.1 - 5 november 2014
+
+	Fix: fix for broken review box for logined user for guests review
+
+	functions/user_review_functions.php
+
+3.2 - 4 november 2014
+
+	Added: User reviews function with criterias (beta)
+	Added: now ads slots can use shortcodes
+	Added: Review box option to make colorable design of rating bars
+	Improvements: some improvements in review box design, small bug fixes
+
+	style.css
+	function.php
+	admin/option/option.php
+	css/responsive.css
+	functions/review_functions.php
+	inc/customization.php
+	single.php
+	taxonomy-download_category.php
+	taxonomy-download_tag.php
+	archive-download.php
+	css/blue.css
+	css/violet.css
+	css/green.css
+	css/yellow.css
+	inc/parts/home_carousel.php
+	folder:lang
+
+	added
+	css/jquery.nouislider.css
+	js/jquery.nouislider.full.min
+	functions/user_review_functions.php	
+
+
+3.1.1 - 28 october 2014
+
+	Added: Option to disable crop in thumbnails
+	Added: Option to set "read full review" text from admin
+	Fix: Fix for count in top lists with manual choosing
+	Update:help files
+
+
+	functions/review_function.php
+	admin/metabox/page_review.php
+	admin/source.php
+	admin/option/option.php
+	functions.php
+	style.css
+	functions/review_functions.php
+	wpml-config.xml
+	folder:lang
+	plugins/thirstyaffiliates.zip
+
+
+3.1.0 - 23 october 2014
+
+	Imrovements: speed optimization (changed some images to icon fonts, create css sprites, deleted unuseful css code and js code)
+	Improvements: in mobile version. Increased font size and image size
+	Fixed: some small w3c bugs
+	Improvements: Now you can use content in category description (html and shortcodes are allowed)
+
+	functions.php
+	style.css
+	css/responsive.css
+	category.php
+	js/custom.js
+	inc/parts/home_carousel.php
+	inc/page_areas/video-block.php
+	inc/page_areas/tabbed-block.php
+	folder: images
+	comments.php
+
+	Updated: help files. Added an article "How to get A grade on Yslow and PageSpeed"
+
+
+3.0.1 - 18 october 2014
+
+	Fixed: [wpsm_top] shortcode for creating top lists inside post changed to [wpsm_toplist] for preventing conflict with other shortcodes
+	Fixed: [wpsm_specification] shortcode is working now without attributes
+	Update: help files
+
+	function.php
+	functions/review_functions.php
+	shortcodes/tinyMCE/tinyMCE_script.js
+
+3.0.0 - 16 october 2014
+	
+	Added: WordPress Meta Data Filter & Taxonomies Filter plugin for creating filtered catalogues, directories, listings (see some examples http://rehub.wpsoul.net/directory-mode/)
+	Added: Catalogue constructor template
+	Added: Shortcode for creating specification
+	Added: Numbered headings shortcode
+	Added: Top lists inside post shortcode (see demo http://rehub.wpsoul.net/example-of-top-list-post/)
+	Fixed: crop bug in resizer
+	Improvement: Option to use custom fields values as description for top lists
+	Improvement: Option to disable dotted overlay on thumbnails
+	Improvement: Width of content area for mobiles changed to 300 px
+	Improvement: Tons of different improvements
+	Added: Vimeo social icon in theme options
+	Update: Help files
+
+2.9.5 - 29 september 2014
+
+	Improvement: Option to disable resize images of top post sliders
+	Improvement: Option to fit branded banner to width and height of screen
+	Improvement: Option to choose 3 different design of rating block in comparison lists
+	Added: Out content ads widget
+	Improvement: Change default thumbnails images
+
+	single.php
+	style.css
+	css/responsive.css
+	inc/bfi_thumb.php
+	admin/metabox/post_type.php
+	admin/option/option.php
+	admin/metabox/page_meta.php
+	admin/metabox/page_review.php
+	js/custom_flex.js
+	inc/parts/top_image.php
+	functions.php
+	template-toprating.php
+	inc/customization.php
+	functions/review_functions.php
+	functions/sidebar_functions.php
+	inc/widgets/related_reviews.php
+	folder: lang, images/default
+
+	Added: inc/widgets/outer_ads.php
+
+
+2.9.4 - 21 september 2014
+
+	Fix: deleted word "Array" from news ticker
+	Improvement: compatibility with SEO by Yoast (deleted dublicated site name from title)
+	Added: infinite scroll for grid layouts
+	Improvement: Timer can be set for all product review types
+	Added: 2 ads slot (after post title and before content)
+	Added: option to set featured section by tag name
+	Fix: small fixes for dark header style and color of current menu item and other improvements
+
+	inc/parts/news_ticker.php
+	inc/page_areas/grid-posts-block.php
+	functions.php
+	images/preload.gif
+	template-fullwidthgrid.php
+	admin/metabox/fullwidth_grid.php
+	admin/metabox/mag_builder.php
+	admin/option/option.php
+	admin/metabox/post_type.php
+	style.css
+	header.php
+	single.php
+	css/responsive.css
+	inc/parts/featured.php
+	functions/review_functions.php
+	lang folder
+	template-rating.php
+	js/custom_scroll.js	
+
+	added:
+	js/jquery.infinitescroll.min.js
+	js/masonry_init_infauto.js
+	js/masonry_init_scroll_on_click.js	
+
+2.9.3 - 13 september 2014
+
+	Fix: category setting of news ticker
+	Improvement: simplifying review schema for better google indexing
+	Added: person schema (add url to your google plus to your profile)
+	Improvement: Design of rating score in comparison lists (old design with red colors grab too much attention from button)
+	Added: Option to globally disabling top image from single post
+	Added: Pros and Cons shortcode
+	Improvements: feature section now is disabled from pagination
+
+	shortcodes/js/wpsm_accordion.js
+	inc/parts/news_ticker.php
+	single.php
+	functions/review_functions.php
+	shortcodes/tiny_MCE/tiny_MCE.php
+	shortcodes/shortcodes.php
+	shortcodes/css/css.css
+	template-toprating.php
+	admin/option/option.php
+	admin/metabox/page_review.php
+	css/responsive.css
+	inc/parts/top_image.php
+	page.php
+	index.php
+	page_builder.php
+	template-fullwidth.php
+	style.css
+	folder:lang
+
+	added:
+	shortcodes/tiny_MCE/includes/proscons.php
+
+2.9.2 - 2 september 2014
+
+	Improvement: ability to use woocommerce box shortcode in any post
+	Added: related reviews widget
+	Small fixes
+
+	functions/review_function.php
+	function/sidebar_functions.php
+	template-toprating.php
+	style.css
+	admin/metabox/page_review.php
+	folder lang, plugins
+
+	added:
+	inc/widgets/related_reviews.php
+
+2.9.1 - 28 august 2014
+
+	Fix: fix issue with not correct place of output for shortcode of comparison list
+
+	functions/review_functions.php
+	style.css
+
+2.9 - 26 august 2014
+
+	Improvements: in responsive view of top review lists
+	Fix: in count of posts in post lists widget
+	Improvements: ability to have multiple grid layout on page
+	Added: options to connect woocommerce products with affiliate links and review posts
+	Added: block with affiliate links to woocommerce products
+	Imrovements: responsive view of woocommerce products
+	Improvements: option to disable price and button in woocommerce affiliate products (just don't set any link and price)
+	Added: shop image in affiliate link builder (just add image link to category and this image will be used as offer thumbnail)
+
+
+	inc/widgets/posts_list.php
+	inc/page_areas/tabbed-block.php
+	inc/parts/home_carousel.php
+	archive-download.php
+	style.css
+	css/responsive.css
+	css/woocommerce.css
+	css/violet.css
+	css/blue.css
+	css/yellow.css
+	css/green.css
+	category.php
+	inc/page_areas/grid-posts-block.php
+	inc/customization.php
+	index.php
+	js\masonry_init.js
+	taxonomy-download_category.php
+	taxonomy-download_tag.php
+	template-fullwidthgrid.php
+	template-toprating.php
+	functions.php
+	functions/review_functions.php
+	woocommerce.php
+	js/custom.js
+	sidebar.php
+	footer.php
+	template-ecwid.php
+	admin/metabox/mag_builder.php
+	admin/option/option.php
+	shortcodes/shortcodes.php
+	folder: lang
+	footer.php
+
+	added
+	admin/metabox/woo_links.php
+	functions/woo_functions.php
+	functions/sidebar_functions.php
+	woocommerce/loop/add-to-cart.php
+	woocommerce/single-product/short-description.php
+
+
+v2.8.1 – 17 august 2014
+
+	Improvement: speed optimization when your site has a lot of categories
+	Fix: fix for price (when you use price with dot) for affiliate links block
+
+	Updated files:
+	style.css
+	functions.php
+	functions/review_functions.php
+	admin/metabox/aff_links.php
+	inc/page_areas/tabbed-block.php
+	inc/parts/query_type3.php
+	inc/parts/home_carousel.php
+	inc/customization.php	
+	css/violet.css
+	css/yellow.css
+	css/green.css
+	css/blue.css
+
+	folders :
+	lang
+
+
+
+v2.8 – 13 august 2014
+
+	Improvement: option to choose descriptions in top lists
+	Added: shortcode to add top review list to any page
+	Added: Ads area before header
+
+	Updated files:
+	style.css
+	functions.php
+	header.php
+	admin/metabox/page_review.php
+	admin/source.php
+	admin/option/option.php
+	template-toprating.php
+	css/blue.css
+	css/violet.css
+	css/green.css
+	css/yellow.css
+	css/responsive.css
+	inc/customization.php
+
+	folders :
+	functions	
+	lang
+
+v2.7.2 – 6 august 2014
+
+	Improvement: Main menu
+	Added: Mega Main Menu compatibility
+	Improvement: russian localization
+	Improvement: built-in shortcode plugin now support subfolder wordpress installation
+	Improvement: woocommerce cart link in header now with ajax	
+
+	Updated files:
+	style.css
+	lang/ru_RU.mo
+	lang/ru_RU.po
+	shortcodes/tinyMCE/tinyMCE.php
+	shortcodes/tinyMCE/includes	(full folder)
+	css/green.css
+	css/yellow.css
+	css/blue.css
+	css/violet.css
+	inc/customization.php
+	functions.php
+
+	Added folder and files:
+	functions		
+
+v2.7.1 – 1 august 2014
+
+	Fix: widget work when use localization
+	Fix: small fix in russian localization
+
+	Updated files:
+	sidebar.php
+	footer.php
+	style.css
+	lang/ru_RU.mo
+	lang/ru_RU.po
+	template_ecwid.php
+
+v2.7 – 1 august 2014
+
+	Added: woocommerce product review post
+	Added: awesome woocommerce product shortcode (just add [wpsm_woobox id="woocommerce product ID"]) 
+	Added: compatibility with YITH WooCommerce Compare, YITH WooCommerce Wishlist
+	Added: russian localization
+	Improvement: flex slider preload in posts
+	Improvement: many small fixes and improvements
+
+	Updated files:
+	inc/parts/query_type3.php
+	inc/parts/query_type2.php
+	inc/parts/query_type1.php
+	shortcodes/shortcodes.php
+	inc/parts/top_image.php
+	functions.php
+	style.css
+	single.php
+	css/responsive.css
+	admin/metabox/post_type.php
+	admin/source.php
+	admin/option/option.php
+	admin/admin.php
+	js/custom.js
+	js/custom_flex.js
+	template-toprating.php
+	vafpress-framework/public/css/metabox_min.css
+	css/woocommerce.css
+	css/green.css
+	css/yellow.css
+	css/blue.css
+	css/violet.css
+	css/responsive.css
+	inc/customization.php
+	shortcodes/tinyMCE/tinyMCE.php
+	shortcodes/tinyMCE/includes/woobox.php
+
+v2.6 – 22 July 2014
+
+	Improvement: add link to post from image in grid template
+	Improvement: when you don't set review scores, review block don't show
+	Improvement: option to set background for overlay in feature slider
+	Improvement: option to set block width for footer
+	Improvement: links from branded banners and backgrounds open in new window
+	Improvement: options to add rel="nofollow" and open links in new window for all affiliate link buttons (for this, please, resave theme options page)
+
+	Updated files:
+	inc/parts/query_type3.php
+	inc/customization
+	inc/parts/branded_bg.php
+	inc/parts/branded_banner.php
+	style.css
+	functions.php
+	single.php
+	admin/option/option.php
+	css/responsive.css
+	footer.php
+
+
+v2.5.1 – 20 July 2014
+
+	Fix: small bug that can cause critical blank page of website
+	Fix: full width logo option
+
+	Updated files:
+	style.css
+	admin/metabox/post_type.php
+
+
+v2.5 – 18 July 2014
+
+	Added: option to add slider to review post
+	Improvement: feature area now work in full-width templates
+	Improvement: fix many validator errors
+	Fix: small fixes for ecwid css
+
+	Updated files:
+	css/ecwid.css
+	css/blue.css
+	css/green.css
+	css/yellow.css
+	css/violet.css
+	css/responsive.css
+	style.css
+	inc/customization.php
+	template-fullwidth.php
+	template-fullwidthgrid.php
+	template-toprating.php
+	template-landing.php
+	single.php
+	header.php
+	footer.php
+	inc/parts/post_share.php
+	admin/metabox/post_type.php
+	lang
+
+v2.4 – 14 July 2014
+
+	Added: option to manually selection and order for top review pages
+	Improvement: grid template has preloader now
+
+	Note! If you have already settings (category or tag) in top review pages, you need to select type of selection and resave page.
+
+	Updated files:
+	category.php
+	index.php
+	template-toprating.php
+	inc/page_areas/grid-posts-block.php
+	admin/metabox/page_review.php
+	admin/source.php
+	js/masonry_init.js
+	style.css
+
+	Added file:
+	images/preload.gif
+
+
+v2.3.4 – 14 July 2014
+
+	Fix: category pagination in grid template
+	Fix: slider thumbnails in grid template
+	Improvement: offer box shortcode
+
+	Updated files:
+	inc/BFI_Thumbs
+	category.php
+	style.css
+	inc/parts/query_type3.php
+	css/responsive.css
+	css/blue.css
+	css/green.css
+	css/violet.css
+	css/yellow.css
+	inc/customization.php	
+
+v2.3.1 – 12 July 2014
+
+	Fix: mobile menu
+	Fix: small issue with disqus plugin
+
+	Updated files:
+	functions.php
+	style.css
+	js/custom.js	
+
+v2.3 – 10 July 2014
+
+	Added: EasyDigitalDownload plugin compatibility and customization
+	Added: Pagination for grid fullwidth template
+	Fix: icon in sticky mobile menu
+	Fix: small fixes for different blocks
+	Improvement: pagination design
+
+	Updated files:
+	functions.php
+	style.css
+	comments.php
+	template-fullwidthgrid.php
+	template-toprating.php
+	admin/option/options.php
+	inc/parts/query_type1.php
+	inc/parts/query_type2.php
+	inc/parts/query_type3.php
+	inc/customization.php
+	admin/metabox/fullwidth_grid.php
+	css/blue.css
+	css/green.css
+	css/violet.css
+	css/yellow.css
+	css/responsive.css
+	lang/default.po
+	js/custom.js
+	shortcodes/shortcodes.php
+	inc/parts/post_share.php
+	inc/page_areas/custom-block.php
+
+
+	Added file:
+	archive-download.php
+	single-download.php
+	taxonomy-download_category.php
+	taxonomy-download_tag.php
+	folder: edd_templates
+
+
+v2.2 – 7 July 2014
+
+	Added: Adblock notice for ads (see help files how to add notice to post ads)
+	Added: Option to change body font
+	Improvement: beautiful mobile menu
+	Fix: small fix for column shortcode and other
+
+	Updated files:
+	functions.php
+	header.php
+	style.css
+	footer.php
+	admin/option/options.php
+	inc/page_areas/two-col-block.php
+	inc/customization.php
+	css/blue.css
+	css/green.css
+	css/violet.css
+	css/yellow.css
+	css/responsive.css
+	wpml-config.xml
+	lang/default.po
+	js/custom.js
+	shortcodes/css/css.css
+
+	Added file:
+	js/adblock_notify.js
+
+
+
+v2.1 – 3 July 2014
+
+	Added: Option to change button text for offer block
+	Added: Option to change sidebar to the left side
+	Fix: prevent wordpress changing facebook comment widget
+	Fix: button on woocommerce carousel when product is variable
+
+	Updated files:
+	comments.php
+	functions.php
+	inc/page_areas/woocommerce-block.php
+	admin/option/option.php
+	inc/customization.php
+	inc/parts/query_type1.php
+	inc/parts/query_type2.php
+	inc/parts/query_type3.php
+	shortcodes/shortcodes.php
+	template-toprating.php	
+	lang/default.po
+	wpml-config.xml
+	style.css
+
+
+v2.0 – 1 July 2014
+
+	Added: Affiliate links builder integration
+	Added: Option to delete standart comments and set other comments widget (facebook, disqus, etc)
+	Added: 4 style of header (full width logo + 728*90 banner)
+	Added: Full width Grid style page template
+	Fixes: small fixes and improvements
+	Update: help files 
+
+	Updated files:
+	admin/source.php
+	admin/admin.php
+	admin/option/option.php
+	admin/metabox/post_type.php
+	single.php
+	style.css
+	css/blue.css
+	css/yellow.css
+	css/violet.css
+	css/green.css
+	css/responsive.css
+	inc/parts/query_type1.php
+	inc/parts/query_type2.php
+	inc/parts/query_type3.php
+	inc/customization.php
+	comments.php
+	functions.php
+	shortcodes/tinyMCE/includes/offerbox.php
+	shortcodes/tinyMCE/tinyMCE.css
+	shortcodes/shortcodes.php
+	inc/parts/branded_banner.php
+	lang/default.po
+
+
+v1.8.5 – 26 June 2014
+
+	Improvement: Now you can choose category in post string for page builder
+	Added: Grid layout for blog, archives, category
+	Added: zip of clone of demo site, please see instructions at Demo_data folder
+	Improvement: Post order by review score in top reviews\product pages.
+	Attention. If you have already top review/product pages, you need to resave review posts that on this page. Sorry for inconveniences, but this update will open a way for new future functions and improvements. 
+
+	Updated files:
+	style.css
+	css/responsive.css
+	functions.php
+	inc/page_areas/grid-posts-block.php
+	inc/page_areas/big-posts-block.php
+	inc/page_areas/small-posts-block.php
+	inc/parts/query_type3.php
+	category.php
+	index.php
+	archive.php
+	template-toprating.php
+	admin/option/option.php
+	admin/metabox/mag_builder.php
+
+	New files:
+
+	js/masonry_init.js
+	js/masonry.pkgd.min.js
+	js/imagesloaded.pkgd.min.js
+
+v1.8.2 – 22 June 2014
+
+	Improvement: Now you can use shortcodes in custom content block in page builder
+	Fix: Small bug with overlaping arrows of news ticker in boxed header
+	Fix: feature section on home page if no post set
+
+	Updated files:
+	style.css
+	inc/page_areas/custom-block.php
+	inc/parts/featured.php
+
+
+v1.8.1 – 20 June 2014
+
+	Added: Option to insert content on top review/product page
+	Fix: Bug with freezing button when enabled auto-saving draft
+	Update: Font Awesome font to 4.1.0
+	Added: Psd source for comparison pages
+
+	Updated files:
+	style.css
+	function.php
+	template-toprating.php
+	vafpress-framework/public/css/vendor/font-awesome.min
+	vafpress-framework/public/css/fonts
+
+
+v1.8 – 19 June 2014
+
+	Improvements: 3 NEW designed Top review and product page templates
+	Fix: small fix for woocommerce css
+	Fix: fix language for FB button
+
+	Updated files:
+	css/responsive.css
+	css/woocommerce.css
+	style.css
+	admin/metabox/page_review.php
+	inc/parts/post_share.php
+	template-toprating.php
+	lang/default.po
+
+	Added files: 
+	images/top_rank.png
+
+
+v1.7.1 – 17 June 2014
+
+	Small fix for retina images
+
+	Updated files:
+	css/responsive.css
+
+v1.7 – 13 June 2014
+    
+    Added: More powerful option for header customization. Now you can change color, background of logo zone, colors of top line area, navigation.
+    Added: Option to change style of layout for categories
+    Added: Asynchronous load for post share buttons
+    Update: Change images in header on iconic fonts 
+
+    Updated files:
+    	header.php
+        functions.php
+        style.css
+        admin/option/option.php
+        inc/customization.php
+        css/responsive.css
+        searchform.php
+        category.php
+        js/custom.js
+        single.php 
+        lang/default.po
+
+    Added files: 
+        inc/parts/post_share.php    
+
+v1.6 – 11 June 2014
+	
+	Fix: sticky post bug in default slider
+	Fix: bug in custom widget when no post founded.
+    Added: WPML compatibility
+
+v1.5 – 5 June 2014
+
+    Added: Option to set branded banner image on category page and all inner posts of this category
+
+v1.4.2 – 4 June 2014
+
+    Fix: bug with sticky navigation in block header
+    Improvements: Woocommerce buttons in main shop page match site colors
+
+v1.4.1 – 30 May 2014
+
+    Fix: home carousel, sticky post with offset option in page builder
+
+v1.4 – 29 May 2014
+
+    Added: Home page full-width carousel
+
+v1.3 – 27 May 2014
+
+    Added: Option to choose header style (logo+banner 468X60+search, logo + banner 728X90 + full-width logo)
+
+v1.2 – 26 May 2014
+
+    Improvements: Changed sidebar width to 300px for better compatibility with popular format of ADS
+    Improvements: Changed responsive version for pad
+    Added: Option to filter posts by post formats in post string blocks in page builder
+    Added: Customization for BBPress
+
+v1.1 – 25 May 2014
+
+    Bug Fixed: Fixed problem in video block in page builder
+    Bug Fixed: Fixed responsive bug in IE and Safari
+
+Version 1.0.0
+- First release
